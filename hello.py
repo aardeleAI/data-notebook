@@ -1,4 +1,6 @@
 # pylint: disable=missing-docstring
 
 def hello_world():
-    pass  # YOUR CODE HERE
+    # $CHALLENGIFY_BEGIN
+    return 'Hello from hello.py'
+    # $CHALLENGIFY_END
